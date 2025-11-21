@@ -22,6 +22,8 @@ npm install
 node server.js
 ```
 
+The server should be running and listening locally on port `3000`
+
 ### Vue frontend
 Create a `.env` file in the `/src` folder of the project:
 ```
